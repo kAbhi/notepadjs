@@ -1,0 +1,1 @@
+javascript:window.location="data:text/html,%20<html%20contenteditable>";
